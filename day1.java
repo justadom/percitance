@@ -1,6 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
-public class day1 {
+class NumberGuessingGame {
     public static void main(String[] args) {
 
         Random random = new Random();
